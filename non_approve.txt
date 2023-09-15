@@ -1,0 +1,10 @@
+The non-approved algorithms listed in Table 6 are as follows:
+
+    Hashing: MDS
+    IPsec MACing: HMAC MDS
+    Symmetric: DES, RC4
+    Asymmetric: 768-bit/1024-bit RSA (key transport), 1024-bit Diffie-Hellman
+    SSH MACing: HMAC MDS
+    TLS Symmetric: DES, RC4
+    SNMP v1/v2 Hashing: MDS
+    Symmetric: DES
